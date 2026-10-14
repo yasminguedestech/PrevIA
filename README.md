@@ -31,10 +31,5 @@ Yasmin Guedes dos Santos - Dev
 O repositório reúne a modelagem relacional do projeto (modelo lógico e modelo físico) e o script SQL.
 
 
-Estrutura do repositório
-.
-├── README.md
-├── Aguardando........
-
 <3
 
